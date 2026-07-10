@@ -128,17 +128,14 @@ Adoto uma metodologia focada em transparência e colaboração activa, estrutura
 
 Como especialista em PHP, Laravel e MySQL, conto com uma trajetória voltada para o desenvolvimento de soluções robustas para o setor industrial e corporativo. Abaixo constam alguns exemplos de projetos de escopo similar já desenvolvidos:
 
-1.  **Portal Industrial Moveleiro (TechMóveis):**
-    *   *Descrição:* Desenvolvimento de um portal de catálogo dinâmico de móveis planejados de alto padrão.
+1.  **Sistema de Cotação de Produtos (Abastece Já Compras):**
+    *   *Descrição:* Desenvolvimento de um sistema dinâmico de cotação de produtos.
     *   *Tecnologias:* PHP 8.1, Laravel, MySQL, Alpine.js e Tailwind CSS.
-    *   *Resultado:* Redução de 40% nas solicitações de catálogos via e-mail corporativo devido à automação da Área do Lojista, que passou a concentrar downloads e solicitações técnicas.
-2.  **Plataforma de Pedidos e Catálogo de Peças (AutoParts-PR):**
-    *   *Descrição:* Sistema institucional com área restrita para mais de 1.200 revendedores baixarem tabelas de preços e montarem orçamentos de autopeças.
+    *   *Resultado:* Agilização do processo de cotação de produtos.
+2.  **SisGraxaria - Sistema de Gestão para Graxaria (Reciclagem Animal):**
+    *   *Descrição:* O SisGraxaria é uma solução completa desenvolvida para automatizar e otimizar os processos operacionais de uma indústria de graxaria (unidade de reciclagem de subprodutos de origem animal).
     *   *Tecnologias:* Laravel 10, MySQL, Redis para filas de e-mail e painel CMS sob medida.
-    *   *Resultado:* Agilização do processo de fechamento de cotações B2B, com uma interface responsiva utilizada diretamente por vendedores em campo.
-3.  **Site Institucional Multilíngue (Agroexport Brasil):**
-    *   *Descrição:* Landing page corporativa e blog técnico traduzidos para Português, Inglês e Mandarim, focado em captação de leads internacionais.
-    *   *Tecnologias:* Laravel Blade, CSS customizado, integrações de geolocalização e SEO técnico avançado.
+    *   *Resultado:* O sistema gerencia de forma integrada desde a coleta de matéria-prima (ossos, gordura, miúdos de açougues, supermercados e frigoríficos), a pesagem, o controle dos lotes de processamento, a produção de subprodutos (sebo e farinha de carne/ossos), até a venda final aos clientes (fábricas de rações, sabões, biodiesel, etc.).
 
 ---
 
@@ -146,14 +143,14 @@ Como especialista em PHP, Laravel e MySQL, conto com uma trajetória voltada par
 
 O investimento total para o desenvolvimento da plataforma descrita, considerando o escopo completo (Institucional + Catálogo de Produtos + Área do Lojista + CMS + Suporte Multilíngue), é de:
 
-### **R$ 16.800,00** (Dezesseis mil e oitocentos reais)
+### **R$ 6.800,00** (Seis mil e oitocentos reais)
 
 #### Sugestão de Divisão por Etapas (Pagamento Baseado em Milestones):
 
-*   **Sinal / Entrada (Aprovação da Proposta e Design Inicial):** R$ 4.200,00 (25%)
-*   **Entrega da Sprint 1 & 2 (Site Público e Catálogo Funcional):** R$ 4.200,00 (25%)
-*   **Entrega da Sprint 3 (Área do Lojista e Painel CMS):** R$ 4.200,00 (25%)
-*   **Homologação Final, Deploy em Produção e Transferência de Código (Go-live):** R$ 4.200,00 (25%)
+*   **Sinal / Entrada (Aprovação da Proposta e Design Inicial):** R$ 1.700,00 (25%)
+*   **Entrega da Sprint 1 & 2 (Site Público e Catálogo Funcional):** R$ 1.700,00 (25%)
+*   **Entrega da Sprint 3 (Área do Lojista e Painel CMS):** R$ 1.700,00 (25%)
+*   **Homologação Final, Deploy em Produção e Transferência de Código (Go-live):** R$ 1.700,00 (25%)
 
 *Nota: Condições e parcelamentos podem ser renegociados de acordo com o fluxo financeiro de sua empresa.*
 
